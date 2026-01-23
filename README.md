@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Judson Aparecido de Sousa, tenho 29 anos e sou natural de Minas Gerais.Conclui o Ensino Medio, Faço manutensão em computaodr a mais de 10 anos.Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNIFRAN e ampliando meus conhecimentos através de diversos cursos externos.
+Me chamo Judson Aparecido de Sousa, tenho 29 anos e sou natural de Minas Gerais.Conclui o Ensino Medio, Faço manutenção em computaodr a mais de 10 anos.Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNIFRAN e ampliando meus conhecimentos através de diversos cursos externos.
 
 ---
 
